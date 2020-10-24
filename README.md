@@ -8,7 +8,9 @@ Observações: lab-04 (Btree/Árvore B) incompleto e lab-06 não foi cobrado, ma
 **INTRUÇÕES PARA RODAR OS CÓDIGOS**
 
 *1-* No diretório da estrutura de dados para executar-la digite no terminal ou cmd : make test
+<br>
 *2*- Há instruções mais detalhadas nas notas de aula que encontra-se em pdf.
+<br>
 *3*- È necessário "re-salvar" o arquivo a cada execução, pois o make file baseia-se na data de alteração.
 
 
