@@ -2,7 +2,7 @@
 
 Códigos utilizados nos trabalhos(laborátorios) semanais, utilizando c++ mais robusto possível.
 
-Observações: lab-04 incompleto e lab-06 não foi cobrado, mas se trava das heaps de fibonnaci.
+Observações: lab-04 (Btree/Árvore B) incompleto e lab-06 não foi cobrado, mas se trava das heaps de fibonacci.
 
 
 **INTRUÇÕES PARA RODAR OS CÓDIGOS**
