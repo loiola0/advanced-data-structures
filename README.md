@@ -1,4 +1,4 @@
-# ESTRUTURA DE DADOS AVANÇADAS
+# ESTRUTURA DE DADOS AVANÇADA
 
 Códigos utilizados nos trabalhos(laborátorios) semanais, utilizando c++ mais robusto.
 
