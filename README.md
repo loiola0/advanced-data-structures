@@ -15,6 +15,7 @@ Observações: lab-04 (Btree/Árvore B) incompleto e lab-06 não foi cobrado, ma
 
 
 **Autores**
+        <br>
         Docente:Luiz Alberto do Carmo Viana.
         <br>
         Discente:Victor Gabriel M O Loiola.
