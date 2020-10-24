@@ -1,6 +1,6 @@
 # ESTRUTURA DE DADOS AVANÇADAS
 
-Códigos utilizados nos trabalhos(laborátorios) semanais, utilizando c++ mais robusto possível.
+Códigos utilizados nos trabalhos(laborátorios) semanais, utilizando c++ mais robusto.
 
 Observações: lab-04 (Btree/Árvore B) incompleto e lab-06 não foi cobrado, mas se trava das heaps de fibonacci.
 
