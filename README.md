@@ -4,6 +4,21 @@ Códigos utilizados nos trabalhos(laborátorios) semanais, utilizando c++ mais r
 
 Observações: lab-04 (Btree/Árvore B) incompleto e lab-06 não foi cobrado, mas se trava das heaps de fibonacci.
 
+**ESTRUTURAS E SEUS RESPECTIVOS LABORATÓRIOS**
+
+Laboratório   | Estrutura
+--------- | ------
+lab-01 | BSTREE
+lab-02 | AVLTREE
+lab-03 | RBTREE
+lab-04 | BTREE
+lab-05 | HEAPS
+lab-06 | HEAPS FIBONACCI*
+lab-07 | DISJOINT SET
+lab-08 | GRAPH
+lab-09 | MINIMUM SPANNING TREE
+lab-10 | HASH TABLES
+
 
 **INTRUÇÕES PARA RODAR OS CÓDIGOS**
 
